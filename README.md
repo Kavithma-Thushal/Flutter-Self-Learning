@@ -1,4 +1,6 @@
-# Flutter Learning Room
+# flutter_self_learning
+
+A new Flutter project.
 
 ## Getting Started
 

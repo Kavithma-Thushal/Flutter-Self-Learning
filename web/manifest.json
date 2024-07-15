@@ -1,6 +1,6 @@
 {
-    "name": "flutter_learning_room",
-    "short_name": "flutter_learning_room",
+    "name": "flutter_self_learning",
+    "short_name": "flutter_self_learning",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
