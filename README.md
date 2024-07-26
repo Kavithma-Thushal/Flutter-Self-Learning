@@ -1,4 +1,4 @@
-# Flutter Self Learning
+# flutter_self_learning
 
 A new Flutter project.
 
